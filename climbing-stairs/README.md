@@ -8,7 +8,7 @@ The first instinct that came to my mind was to write down all the possible ways 
 
 Clearly the pattern seemed like fibonacci numbers, but why
 
-###Since it is fibonacci it is recursive, but how ?
+### Since it is fibonacci it is recursive, but how ?
 
 So for each lets say the there are n steps, and if the first step is
 a single = there are only a spesific number of ways it can traverse through the n-1 steps 
