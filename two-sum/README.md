@@ -1,0 +1,3 @@
+This was fairly simple. The only best way to solve this is to iterate through the loop and inside that iterate through the elements that come after the loop as there is not need to.
+
+As we do this is, we essentially find the sum of each elemnt in the list with every other element in the list. Based of the instance we are in we can now easily determine that are the indices of the variables that add up to the target.
