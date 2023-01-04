@@ -8,4 +8,8 @@ There were 2 major ways how I could accomplish the optimization needed.
 1. Sort the array (so that you only need to compare any two adjacent elemnts only to solve the problem)
 2. Use another list to keep track all the lements already iterated to see if we encounter another element of similar kind
 
-I chose to solve it using the 2nd method but the 1st one seems pretty optimized too
+I chose to solve it using the 2nd method but the 1st one seems pretty optimized too   //don't use words like "pretty optimised"-> mention how it was more optimised wrt time complexity.
+
+#ALTERNATE WAYS
+1.Create a set of vector and just compare their size. Reasoning: As the set only contains unique elements, if the vector had any duplicates it's size would
+be more than that of the set.   Time complexity - O(n) space complexity - O(n)
