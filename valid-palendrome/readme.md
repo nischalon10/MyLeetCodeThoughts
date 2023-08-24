@@ -1,0 +1,2 @@
+Getting back to leet code after a while had a good start with this. This was a simpler one, Just had to google what the function name was to see if a given char is a alphanumeric char or not and it was simple enough. 
+From there the solution was simple itertate through every char and then kick out the onces that were not alpha-num and then use simple string manipulation to return true or false.
